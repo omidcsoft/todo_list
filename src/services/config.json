@@ -1,0 +1,5 @@
+{
+    "domain":"",
+    "local_adress":"http://localhost:8000",
+    "test_api_adress":"https://jsonplaceholder.typicode.com"
+}
